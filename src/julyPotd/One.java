@@ -11,8 +11,8 @@ public class One {
     }
 
     public static void main(String[] args) {
-        System.out.println(setBits(6)); // Output: 2
-        System.out.println(setBits(8)); // Output: 1
+        System.out.println(setBits(6));
+        System.out.println(setBits(8));
     }
 }
 

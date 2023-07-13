@@ -9,7 +9,6 @@ package julyPotd;
             X = X & (~mask);
             int setBits = Y & mask;
 
-            // Copy the set bits from Y to X
             X = X | setBits;
 
             return X;
